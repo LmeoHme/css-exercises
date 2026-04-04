@@ -1,19 +1,17 @@
-/* Add CSS Styling */
-.normal-class, .cooler-class {
-    background-color: rgb(255, 180, 175);
-    font-family: Verdana, sans-serif, "DejaVu Sans";
+.odd {
+    background-color: rgb(235, 175, 185);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
 }
-.cooler-class {
+
+.adjust-font-size {
     font-size: 24px;
 }
 
-#one-id {
-    color: blue;
+#two {
+    color: rgb(0, 0, 255);
     font-size: 36px;
 }
 
-#another-id {
-    background-color: rgb(155, 235, 165);
-    font-size: 24px;
-    font-weight: bold;
+#four {
+    background-color: rgb(135, 235, 175);
 }
